@@ -1,7 +1,8 @@
 **Hello Everyone I'm 👋**
 ## Arif Kurniawan
-<img src="https://github.com/rifkurniawan-dev/rifkurniawan-dev/blob/main/upi.png" width="85" style="margin-right: 20px;" />
+<img src="https://github.com/rifkurniawan-dev/rifkurniawan-dev/blob/main/upi.png" width="85" style="margin-right:20px;" />
 <img src="https://github.com/rifkurniawan-dev/rifkurniawan-dev/blob/main/coding.jpg" width="85" />
+
    
 Saya adalah mahasiswa Sistem Informasi Kelautan yang memiliki minat dan keterampilan
 di bidang data analytics, data science, dan machine learning Engineer
