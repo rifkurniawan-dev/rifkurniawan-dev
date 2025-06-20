@@ -1,7 +1,8 @@
 **Hello Everyone I'm 👋**
 ## Arif Kurniawan
-<img src="https://github.com/rifkurniawan-dev/rifkurniawan-dev/blob/main/upi.png" width="80"/> **### Univeristas Pendidikan Indonesia**
-<img src="https://github.com/rifkurniawan-dev/rifkurniawan-dev/blob/main/coding.jpg" width="80"/> **## Coding Camp Powered By DBS Foundation**
+<img src="https://github.com/rifkurniawan-dev/rifkurniawan-dev/blob/main/upi.png" width="80"/> ### Univeristas Pendidikan Indonesia
+
+<img src="https://github.com/rifkurniawan-dev/rifkurniawan-dev/blob/main/coding.jpg" width="80"/> ### Coding Camp Powered By DBS Foundation
 Indonesia (UPI)  
 Saya adalah mahasiswa Sistem Informasi Kelautan yang memiliki minat dan keterampilan
 di bidang data analytics, data science, dan machine learning Engineer
