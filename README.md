@@ -44,14 +44,7 @@ Here are some ideas to get you started:
 </p>
 
 
-## 📊 My GitHub Data:
-
-<div align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=rifkurniawan-dev&show_icons=true&theme=default" alt="GitHub Stats" />
-
-</div>
-
-## Capston Projek Akhir  Studi Independen Bersertifikat Coding Camp 2025 Powered By DBS Foundation
+## 📊 Capston Projek Akhir  Studi Independen Bersertifikat Coding Camp 2025 Powered By DBS Foundation
 <div align="center">
   <a href="https://maydarling-id-production.up.railway.app/" target="_blank">
     <img src="https://img.shields.io/badge/My%20Website-Visit-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white" height="30px"/>
