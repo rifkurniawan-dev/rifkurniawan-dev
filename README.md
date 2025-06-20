@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="25px"/>
   <img alt="Google Colab" src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" height="25px"/>
 
-## ❤️ Let's get connected:
+## ❤️ Contact:
 
  <a href="https://github.com/rifkurniawan-dev" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" height="30px" />
@@ -43,14 +43,12 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-
-## 📊 Capston Projek Akhir  Studi Independen Bersertifikat Coding Camp 2025 Powered By DBS Foundation
+# 📊 My GitHub Data
+ ## Capston Projek Akhir  Studi Independen Bersertifikat Coding Camp 2025 Powered By DBS Foundation
 <div align="center">
   <a href="https://maydarling-id-production.up.railway.app/" target="_blank">
     <img src="https://img.shields.io/badge/My%20Website-Visit-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white" height="30px"/>
   </a>
   <br><br>
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=rifkurniawan-dev&show_icons=true&theme=default" alt="GitHub Stats" />
-  <br><br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rifkurniawan-dev&theme=default" alt="GitHub Streak" />
 </div>
