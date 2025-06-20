@@ -1,6 +1,10 @@
 **Hello Everyone I'm 👋**
 ## Arif Kurniawan
-<img src="https://github.com/rifkurniawan-dev/rifkurniawan-dev/blob/main/upi.png" width="85"/> &nbsp;&nbsp;&nbsp; <img src="https://github.com/rifkurniawan-dev/rifkurniawan-dev/blob/main/coding.jpg" width="85"/>
+<p>
+  <img src="https://github.com/rifkurniawan-dev/rifkurniawan-dev/blob/main/upi.png" width="85" style="vertical-align: middle; margin-right: 15px;" />
+  <img src="https://github.com/rifkurniawan-dev/rifkurniawan-dev/blob/main/coding.jpg" width="85" style="vertical-align: middle;" />
+</p>
+
 
 Saya adalah mahasiswa Sistem Informasi Kelautan yang memiliki minat dan keterampilan
 di bidang data analytics, data science, dan machine learning Engineer
