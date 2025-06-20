@@ -46,6 +46,6 @@ Here are some ideas to get you started:
 ## 📊 My GitHub Data:
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=rifkurniawan-dev&show_icons=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rifkurniawan-dev&" alt="rifkurniawan-dev" />
+  <<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifkurniawan-dev&layout=compact" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rifkurniawan-dev" />
 </div>
