@@ -1,4 +1,7 @@
-## Hi there 👋
+**Hello Everyone I'm 👋**
+## Arif Kurniawan
+### Data Analysis and Machine Learning Engineer
+
 
 <!--
 **rifkurniawan-dev/rifkurniawan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
