@@ -1,7 +1,7 @@
 **Hello Everyone I'm 👋**
 ## Arif Kurniawan
-<img src="/mnt/data/ca165048-f77b-4b00-95b0-325a44f6e7c0.png" alt="Universitas Pendidikan Indonesia" width="40"/> Universitas Pendidikan Indonesia (UPI)
-<img src="/mnt/data/bdf48d2c-4a3b-40d4-9c17-f69ead8bdbe4.png" alt="Coding Camp DBS Foundation" width="40"/> Coding Camp – DBS Foundation
+<img src="/mnt/data/upi.png" alt="Universitas Pendidikan Indonesia" width="40"/> Universitas Pendidikan Indonesia (UPI)
+<img src="/mnt/data/coding.jpg" alt="Coding Camp DBS Foundation" width="40"/> Coding Camp – DBS Foundation
 
 Saya adalah mahasiswa Sistem Informasi Kelautan yang memiliki minat dan keterampilan
 di bidang data analytics, data science, dan machine learning Engineer
