@@ -1,6 +1,6 @@
 **Hello Everyone I'm 👋**
 ## Arif Kurniawan
-## <img src="https://github.com/rifkurniawan-dev/rifkurniawan-dev/blob/main/upi.png" width="50"/> **Univeristas Pendidikan Indonesia**
+<img src="https://github.com/rifkurniawan-dev/rifkurniawan-dev/blob/main/upi.png" width="80"/> **Univeristas Pendidikan Indonesia**
 <img src="https://rifkurniawan-dev/portfolio/main/assets/coding.jpg" width="40"/>
 Indonesia (UPI)  
 Saya adalah mahasiswa Sistem Informasi Kelautan yang memiliki minat dan keterampilan
