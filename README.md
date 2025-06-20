@@ -45,7 +45,11 @@ Here are some ideas to get you started:
 
 ## 📊 My GitHub Data:
 
+## 📊 My GitHub Data:
+
 <div align="center">
-  <<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifkurniawan-dev&layout=compact" />
-  <img src="https://github-profile-trophy.vercel.app/?username=rifkurniawan-dev" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=rifkurniawan-dev&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rifkurniawan-dev&theme=default" alt="GitHub Streak" />
+</div>
+
 </div>
