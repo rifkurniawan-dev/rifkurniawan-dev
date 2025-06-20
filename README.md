@@ -1,10 +1,16 @@
 **Hello Everyone I'm 👋**
 ## Arif Kurniawan
-<p>
-  <img src="https://github.com/rifkurniawan-dev/rifkurniawan-dev/blob/main/upi.png" width="85" style="vertical-align: middle; margin-right: 15px;" />
-  
-  <img src="https://github.com/rifkurniawan-dev/rifkurniawan-dev/blob/main/coding.jpg" width="85" style="vertical-align: middle;" />
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/rifkurniawan-dev/rifkurniawan-dev/blob/main/upi.png" width="85"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/rifkurniawan-dev/rifkurniawan-dev/blob/main/coding.jpg" width="85"/>
+    </td>
+  </tr>
+</table>
+
 
 
 Saya adalah mahasiswa Sistem Informasi Kelautan yang memiliki minat dan keterampilan
