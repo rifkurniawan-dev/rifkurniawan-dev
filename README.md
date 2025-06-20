@@ -1,7 +1,8 @@
 **Hello Everyone I'm 👋**
 ## Arif Kurniawan
-### Data Analysis and Machine Learning Engineer
 
+## Profil 
+Saya adalah mahasiswa Sistem Informasi Kelautan yang memiliki minat dan keterampilan di bidang data analytics, data science, dan machine learning Engineer,
 
 <!--
 **rifkurniawan-dev/rifkurniawan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
