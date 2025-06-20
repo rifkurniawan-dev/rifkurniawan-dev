@@ -1,8 +1,6 @@
 **Hello Everyone I'm 👋**
 ## Arif Kurniawan
-<img src="/mnt/data/upi.png" alt="Universitas Pendidikan Indonesia" width="40"/> Universitas Pendidikan Indonesia (UPI)
-<img src="/mnt/data/coding.jpg" alt="Coding Camp DBS Foundation" width="40"/> Coding Camp – DBS Foundation
-
+<img src="https://raw.githubusercontent.com/USERNAME/REPO/main/assets/upi.png" alt="Universitas Pendidikan Indonesia" width="40"/> Universitas Pendidikan Indonesia (UPI)  
 Saya adalah mahasiswa Sistem Informasi Kelautan yang memiliki minat dan keterampilan
 di bidang data analytics, data science, dan machine learning Engineer
 
