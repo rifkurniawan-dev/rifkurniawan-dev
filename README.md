@@ -1,6 +1,8 @@
 **Hello Everyone I'm 👋**
 ## Arif Kurniawan
-<img src="https://raw.githubusercontent.com/USERNAME/REPO/main/assets/upi.png" alt="Universitas Pendidikan Indonesia" width="40"/> Universitas Pendidikan Indonesia (UPI)  
+<img src="https://rifkurniawan-dev/portfolio/main/assets/upi.png" width="40"/>
+<img src="https://rifkurniawan-dev/portfolio/main/assets/coding.jpg" width="40"/>
+Indonesia (UPI)  
 Saya adalah mahasiswa Sistem Informasi Kelautan yang memiliki minat dan keterampilan
 di bidang data analytics, data science, dan machine learning Engineer
 
