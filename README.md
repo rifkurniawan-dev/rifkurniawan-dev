@@ -1,10 +1,13 @@
 **Hello Everyone I'm 👋**
 ## Arif Kurniawan
+
+## PENDIDIKAN
 <table>
   <tr>
     <td align="center">
       <img src="https://github.com/rifkurniawan-dev/rifkurniawan-dev/blob/main/upi.png" width="85"/>
     </td>
+## PENGALAMAN 
     <td align="center">
       <img src="https://github.com/rifkurniawan-dev/rifkurniawan-dev/blob/main/coding.jpg" width="85"/>
     </td>
@@ -30,7 +33,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+## SKILL
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="25px"/>
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" height="25px"/>
@@ -42,7 +45,7 @@ Here are some ideas to get you started:
   <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="25px"/>
   <img alt="Google Colab" src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" height="25px"/>
 
-## ❤️ Contact:
+## SOCIAL MEDIA:
 
  <a href="https://github.com/rifkurniawan-dev" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" height="30px" />
@@ -56,7 +59,7 @@ Here are some ideas to get you started:
 </p>
 
 ## 📊 My GitHub Data
- **### Capston Projek Akhir  Studi Independen Bersertifikat Coding Camp 2025 Powered By DBS Foundation**
+ ### Capston Projek Akhir  Studi Independen Bersertifikat Coding Camp 2025 Powered By DBS Foundation
 <div align="center">
   <a href="https://maydarling-id-production.up.railway.app/" target="_blank">
     <img src="https://img.shields.io/badge/My%20Website-Visit-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white" height="30px"/>
