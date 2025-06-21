@@ -1,13 +1,11 @@
 **Hello Everyone I'm 👋**
 ## Arif Kurniawan
 
-## PENDIDIKAN
 <table>
   <tr>
     <td align="center">
       <img src="https://github.com/rifkurniawan-dev/rifkurniawan-dev/blob/main/upi.png" width="85"/>
     </td>
-## PENGALAMAN 
     <td align="center">
       <img src="https://github.com/rifkurniawan-dev/rifkurniawan-dev/blob/main/coding.jpg" width="85"/>
     </td>
