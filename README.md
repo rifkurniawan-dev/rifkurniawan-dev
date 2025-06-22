@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="25px"/>
   <img alt="Google Colab" src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" height="25px"/>
 
-## SOCIAL MEDIA:
+## SOCIAL MEDIA
 
  <a href="https://github.com/rifkurniawan-dev" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" height="30px" />
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-## 📊 My GitHub Data
+## My GitHub Data
  ### Capston Projek Akhir  Studi Independen Bersertifikat Coding Camp 2025 Powered By DBS Foundation
 <div align="center">
   <a href="https://maydarling-id-production.up.railway.app/" target="_blank">
