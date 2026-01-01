@@ -15,7 +15,7 @@
 
 
 Saya adalah mahasiswa Sistem Informasi Kelautan yang memiliki minat dan keterampilan
-di bidang System Analisis, Research, data analytics, data science, dan machine learning Engineer
+di bidang machine learning Engineer, Research, data analytics dan data science
 
 <!--
 **rifkurniawan-dev/rifkurniawan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
